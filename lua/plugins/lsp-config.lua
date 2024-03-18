@@ -1,5 +1,3 @@
-      lspconfig.lua_ls.setup({})
-      lspconfig.lua_ls.setup({})
 -- lsp server ?
 return {
   {
