@@ -1,3 +1,4 @@
+-- highlight ans indent sintax
 return {
   "nvim-treesitter/nvim-treesitter",
   build = ":TSUpdate",
